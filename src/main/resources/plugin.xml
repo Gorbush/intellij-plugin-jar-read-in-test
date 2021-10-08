@@ -1,0 +1,10 @@
+<idea-plugin url="http://www.jetbrains.com/idea">
+    <id>some.company</id>
+    <name>Jar Testing</name>
+
+    <idea-version since-build="201.6668.113" until-build="211.*"/>
+
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.java</depends>
+
+</idea-plugin>
